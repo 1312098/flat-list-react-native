@@ -2,8 +2,10 @@
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "dependencies": {
+    "core-decorators": "^0.20.0",
     "expo": "^25.0.0",
     "react": "16.2.0",
+    "react-addons-update": "^15.6.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz"
   }
 }
